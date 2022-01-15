@@ -29,7 +29,9 @@ public class CreateTargetArrayInTheGivenOrder {
         return res ;
     }
 
-    /*Method 2*/
+    /*Method 2
+    An ArrayList has been used in this method so that easily elements can be added at the required index and the elements of the ArrayList can be put into an array which can be returned
+    */
     public static int[] createTargetArray1(int[] nums, int[] index){
         ArrayList<Integer> a = new ArrayList<>();
         for(int i=0;i<nums.length;i++)
