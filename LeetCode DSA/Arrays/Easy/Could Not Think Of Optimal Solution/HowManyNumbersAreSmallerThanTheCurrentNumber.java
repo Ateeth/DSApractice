@@ -49,6 +49,7 @@ public class HowManyNumbersAreSmallerThanTheCurrentNumber {
             if(pos == 0){
                 ans[i] = 0 ;
             }else{
+                //pos - 1 as 0 based indexing
                 ans[i] = count[pos - 1] ;
             }
         }
