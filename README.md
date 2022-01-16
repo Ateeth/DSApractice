@@ -7,3 +7,7 @@ All the folders created in this repo are on my experience . It is not necessary 
 The reason I am maintaining this repository is to help others and it also serves as a reason for me to remain consistent with solving more dsa problems on various topics
 
 Hope whoever reads this repository finds it helpful
+
+
+Wonderful post to read about dynamic programming : https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.
+
