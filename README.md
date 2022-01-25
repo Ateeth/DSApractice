@@ -13,3 +13,5 @@ Hope whoever reads this repository finds it helpful
 
 Wonderful post to read about dynamic programming : https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.
 
+Wonderful post to read about sliding window approach : https://leetcode.com/problems/frequency-of-the-most-frequent-element/discuss/1175088/C%2B%2B-Maximum-Sliding-Window-Cheatsheet-Template!
+
