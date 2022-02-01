@@ -1,5 +1,5 @@
 # DSApractice
-This is a set of problems i have practiced on my journey of learning dsa
+This is a set of problems i will be practicing on my journey of learning dsa
 Once i finish a set of problems i will do my best to keep this repository updated
 
 All the folders created in this repo are on my experience . It is not necessary that the problems i could not think of a logic cannot be solved by others at first glance.
