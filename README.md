@@ -10,6 +10,7 @@ The reason I am maintaining this repository is to help others and it also serves
 
 Hope whoever reads this repository finds it helpful
 
+Wonderful post to read about binary search : https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems
 
 Wonderful post to read about dynamic programming : https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.
 
