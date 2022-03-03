@@ -1,3 +1,4 @@
+//Problem Link : https://leetcode.com/problems/next-greater-element-iii/
 package com.ateeth.LeetCodeDSA.strings.Medium.CouldNotThinkOfOptimalSolution;
 
 import java.util.Arrays;
@@ -65,7 +66,7 @@ public class NextGreaterElementIII {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the string : ");
+        System.out.println("Enter the number : ");
         int n = sc.nextInt();
 
         int ans = nextGreaterElement(n) ;
