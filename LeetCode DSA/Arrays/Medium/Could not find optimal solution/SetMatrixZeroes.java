@@ -21,7 +21,7 @@ if fc is true then the first row had a zero prior itself so make all the element
 public class SetMatrixZeroes {
 
     public static int[][] setZeroes(int[][] matrix) {
-        boolean fr = false, fc = true;
+        boolean fr = false, fc = false;
 
         for (int i = 0; i < matrix.length; ++i) {
             for (int j = 0; j < matrix[0].length; ++j) {
