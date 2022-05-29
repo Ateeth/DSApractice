@@ -29,6 +29,32 @@ public class SpecialArrayWithXElementsGreaterThanOrEqualX {
         return -1;
     }
 
+    /*
+    public int specialArray(int[] nums) {
+        int[] freq = new int[1001] ; 
+        
+        //find freq of numbers 0 to 1001
+        for(int num : nums){
+            ++freq[num] ; 
+        }
+        
+        //number of elements in x
+        int total = nums.length ; 
+        
+        //check if total falls within range of any i value
+        for(int i = 0 ; i < 1001 ; ++i){
+            if(i == total){
+                return i ; 
+            }
+            
+            //subtract number of occurences of ith element
+            total -= freq[i] ; 
+        }
+        
+        return -1 ; 
+    }
+    */
+    
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in) ;
         System.out.println("Enter the size of the array : ");
