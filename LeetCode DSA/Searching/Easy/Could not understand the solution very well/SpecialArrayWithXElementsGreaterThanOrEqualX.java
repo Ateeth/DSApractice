@@ -1,4 +1,7 @@
 //Problem Link : https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
+/*
+For index i there will be len - i  numbers greater than equal to nums[i] . Then find if it is the first index of occurence then return it
+*/
 package com.ateeth.LeetCodeDSA.searching.easy.HadDifficultyUnderstandingTheSolution;
 
 import java.util.Arrays;
