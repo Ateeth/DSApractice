@@ -4,7 +4,26 @@ package com.ateeth.LeetCodeDSA.strings.easy.CouldNotUnderstandOptimalSolution;
 import java.util.Scanner;
 
 public class ReversePrefixOfWord {
-    public static String reversePrefix(String word, char ch) {
+    
+     public String reversePrefix(String word, char ch) {
+        StringBuilder sb = new StringBuilder() ; 
+        StringBuilder sb1 = new StringBuilder() ; 
+        
+        int i = 0 ; 
+        while(i < word.length()){
+            if(word.charAt(i) == ch){
+                sb.append(word.substring(0 , i+1)) ; 
+                sb.reverse() ; 
+                sb.append(word.substring(i+1 , word.length()));
+                return sb.toString() ; 
+            }
+            ++i  ;
+        }
+        
+        return word ; 
+    }
+    
+   /* public static String reversePrefix(String word, char ch) {
         StringBuilder ans = new StringBuilder();
         int k = 0 , i = 0;
 
@@ -41,7 +60,7 @@ public class ReversePrefixOfWord {
 
         return ans.toString();
     }
-
+    */
     /*
     public String reversePrefix(String word, char ch) {
         char[] c = word.toCharArray();
