@@ -17,3 +17,5 @@ Wonderful post to read about dynamic programming : https://leetcode.com/problems
 Wonderful post to read about sliding window approach : https://leetcode.com/problems/frequency-of-the-most-frequent-element/discuss/1175088/C%2B%2B-Maximum-Sliding-Window-Cheatsheet-Template!
 
 A general approach to backtracking questions in Java (Subsets, Permutations, Combination Sum, Palindrome Partitioning) : https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
+
+Article on Dynamic Programming : https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions.
